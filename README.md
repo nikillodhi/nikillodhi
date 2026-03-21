@@ -1,4 +1,4 @@
-tgis is demo
+
 # 💫 About Me:
 I’m a B.Tech Computer Science &amp; Engineering student at MANIT Bhopal with a strong interest in web development, problem solving, and building useful tech solutions.Currently, I’m working on MANIT Study Hub, an academic resource portal designed to help engineering students access subject-wise study material easily. Through this project, I’ve gained hands-on experience in HTML, CSS, JavaScript, and real-world problem understanding.I actively practice DSA using C++, and I’m learning Python to expand my backend and automation skills. I also explore AI tools to improve productivity and development workflows.I’m eager to learn, collaborate, and grow as a software engineer. Always open to internships, projects, and tech discussions.
 
